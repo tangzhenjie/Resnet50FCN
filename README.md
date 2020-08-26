@@ -1,2 +1,2 @@
-# Resnet50FCN
-the compare experiment
+# SRSEG
+the conference paper
